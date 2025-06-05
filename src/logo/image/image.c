@@ -5,8 +5,6 @@
 #include "util/stringUtils.h"
 #include "util/base64.h"
 #include "detection/terminalsize/terminalsize.h"
-#include "../gif.h"
-
 #include <limits.h>
 #include <math.h>
 #include <stdio.h>
